@@ -6,4 +6,4 @@ Main code: flowline_analysis.m
 
 Supplementary code: grdread.m, intense.m, ps2ll.m
 
-Data used in this specific example: antarctic_ice_vel_phase_map_v01.nc, rema
+Data used in this specific example: antarctic_ice_vel_phase_map_v01.nc (ice-velocity data), rema (ice elevation)
