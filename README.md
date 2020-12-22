@@ -3,5 +3,7 @@ Some scripts for velocity and strain rate analysis along Antarctic or Greenlandi
 This code takes velocity input data (e.g., from MEAsURES), computes ice flowlines, and computes speed/divergence rate along those flowlines in MATLAB.
 
 Main code: flowline_analysis.m
+
 Supplementary code: grdread.m, intense.m, ps2ll.m
+
 Data used in this specific example: antarctic_ice_vel_phase_map_v01.nc, rema
